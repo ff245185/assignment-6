@@ -25,3 +25,24 @@
     width: 75px;
     height: 59px;
 }
+
+@media screen and (max-width: 600px) {
+    .navs {
+        display: inline-block;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+;
+
+@media screen and (max-width: 768px) {
+    .navs {
+        display: block;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
