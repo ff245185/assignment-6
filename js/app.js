@@ -100,10 +100,4 @@ const loadSpinner = isLoading => {
     }
 }
 
-//bonus mark
-// const displayAllNews = () =>{
-// const showAll = document.getElementById('show-all-news-length')
-// const showNews = document.getElementById('show-all-news')
-// for(const show of showAll.length){
-//
-// }
+
