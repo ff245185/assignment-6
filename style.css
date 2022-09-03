@@ -1,0 +1,27 @@
+#categories-container {
+    font-size: 20px;
+    gap: 19px;
+    border-bottom: 3px rgb(57, 221, 166);
+
+}
+
+#btn-100 {
+    border: 1px solid brown;
+    background-color: chocolate;
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+#btn-101 {
+    border: 1px solid rgb(24, 15, 15);
+    background-color: rgb(6, 125, 236);
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+#images-100 {
+    width: 75px;
+    height: 59px;
+}
