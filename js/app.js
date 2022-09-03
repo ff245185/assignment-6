@@ -90,7 +90,7 @@ const displayModal = id => {
     })
 }
 
-//loading spinner
+// spin 
 const loadSpinner = isLoading => {
     const loader = document.getElementById('loader')
     if (isLoading) {
